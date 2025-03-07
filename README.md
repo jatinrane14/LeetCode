@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jatinrane14/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/jatinrane14/LeetCode/tree/master/0792-binary-search) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jatinrane14/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jatinrane14/LeetCode/tree/master/0326-power-of-three) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## String
 |  |
 | ------- |
