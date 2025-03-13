@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jatinrane14/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jatinrane14/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/jatinrane14/LeetCode/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jatinrane14/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/jatinrane14/LeetCode/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jatinrane14/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Database
 |  |
 | ------- |
