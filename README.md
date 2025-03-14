@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jatinrane14/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jatinrane14/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jatinrane14/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jatinrane14/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/jatinrane14/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jatinrane14/LeetCode/tree/master/0283-move-zeroes) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/jatinrane14/LeetCode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/jatinrane14/LeetCode/tree/master/0183-customers-who-never-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jatinrane14/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
