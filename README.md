@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jatinrane14/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jatinrane14/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/jatinrane14/LeetCode/tree/master/0792-binary-search) |
+| [2058-concatenation-of-array](https://github.com/jatinrane14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jatinrane14/LeetCode/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/jatinrane14/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
