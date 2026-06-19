@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jatinrane14/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jatinrane14/LeetCode/tree/master/0326-power-of-three) |
+| [0371-sum-of-two-integers](https://github.com/jatinrane14/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jatinrane14/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2739-total-distance-traveled](https://github.com/jatinrane14/LeetCode/tree/master/2739-total-distance-traveled) |
 | [2998-count-symmetric-integers](https://github.com/jatinrane14/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/jatinrane14/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
