@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jatinrane14/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/jatinrane14/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jatinrane14/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/jatinrane14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jatinrane14/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jatinrane14/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jatinrane14/LeetCode/tree/master/0075-sort-colors) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jatinrane14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/jatinrane14/LeetCode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/jatinrane14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinrane14/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -212,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jatinrane14/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jatinrane14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jatinrane14/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
