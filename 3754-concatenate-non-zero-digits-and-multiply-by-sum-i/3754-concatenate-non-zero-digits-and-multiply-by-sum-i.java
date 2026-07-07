@@ -3,21 +3,20 @@ class Solution {
         if(n ==0 || n==1){
             return n;
         }
-        int temp = n;
         int sum=0;
-        String numStr = Long.toString(n);
-        StringBuilder resStr = new StringBuilder();
-        int i =0;
-        while(temp>0){
-            int ls = temp%10;
-            sum+=ls;
-            temp/=10;
-            if (numStr.charAt(i) != '0') {
-                resStr.append(numStr.charAt(i));
+        int place =1;
+        long newN = 0;
+        while(n>0){
+            int ld = n%10;
+            if(ld!=0){
+                sum+=ld;
+                newN = ld*place+newN;
+                place*=10;
             }
-            i++;
+            n/=10;
         }
-        long digits =  Long.parseLong(resStr.toString());
-        return (long)(sum * digits);
+
+        return newN*sum;
+
     }
 }
