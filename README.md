@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jatinrane14/LeetCode/tree/master/2540-minimum-common-value) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/jatinrane14/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jatinrane14/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatinrane14/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/jatinrane14/LeetCode/tree/master/2540-minimum-common-value) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/jatinrane14/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3945-digit-frequency-score](https://github.com/jatinrane14/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/jatinrane14/LeetCode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jatinrane14/LeetCode/tree/master/2540-minimum-common-value) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jatinrane14/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatinrane14/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
