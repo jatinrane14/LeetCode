@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/jatinrane14/LeetCode/tree/master/2540-minimum-common-value) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/jatinrane14/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jatinrane14/LeetCode/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jatinrane14/LeetCode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinrane14/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/jatinrane14/LeetCode/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jatinrane14/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/jatinrane14/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatinrane14/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Database
 |  |
 | ------- |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jatinrane14/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jatinrane14/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatinrane14/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -213,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jatinrane14/LeetCode/tree/master/0011-container-with-most-water) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
@@ -245,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
