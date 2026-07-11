@@ -253,4 +253,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jatinrane14/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jatinrane14/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jatinrane14/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jatinrane14/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
