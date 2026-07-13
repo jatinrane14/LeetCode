@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jatinrane14/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/jatinrane14/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1025-divisor-game](https://github.com/jatinrane14/LeetCode/tree/master/1025-divisor-game) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jatinrane14/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2739-total-distance-traveled](https://github.com/jatinrane14/LeetCode/tree/master/2739-total-distance-traveled) |
 | [2998-count-symmetric-integers](https://github.com/jatinrane14/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jatinrane14/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jatinrane14/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatinrane14/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/jatinrane14/LeetCode/tree/master/1025-divisor-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -285,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jatinrane14/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jatinrane14/LeetCode/tree/master/0100-same-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/jatinrane14/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/jatinrane14/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
