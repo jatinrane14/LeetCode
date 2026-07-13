@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/jatinrane14/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3745-maximize-expression-of-three-elements](https://github.com/jatinrane14/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatinrane14/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/jatinrane14/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Database
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/jatinrane14/LeetCode/tree/master/1291-sequential-digits) |
 | [2998-count-symmetric-integers](https://github.com/jatinrane14/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3745-maximize-expression-of-three-elements](https://github.com/jatinrane14/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jatinrane14/LeetCode/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/jatinrane14/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
