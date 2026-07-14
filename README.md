@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinrane14/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jatinrane14/LeetCode/tree/master/2540-minimum-common-value) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinrane14/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/jatinrane14/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2739-total-distance-traveled](https://github.com/jatinrane14/LeetCode/tree/master/2739-total-distance-traveled) |
 | [2998-count-symmetric-integers](https://github.com/jatinrane14/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinrane14/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3663-find-the-least-frequent-digit](https://github.com/jatinrane14/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jatinrane14/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jatinrane14/LeetCode/tree/master/0258-add-digits) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinrane14/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jatinrane14/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatinrane14/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/jatinrane14/LeetCode/tree/master/1025-divisor-game) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinrane14/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
