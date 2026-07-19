@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/jatinrane14/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jatinrane14/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatinrane14/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/jatinrane14/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jatinrane14/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jatinrane14/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinrane14/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/jatinrane14/LeetCode/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jatinrane14/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinrane14/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1408-string-matching-in-an-array](https://github.com/jatinrane14/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jatinrane14/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinrane14/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/jatinrane14/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/jatinrane14/LeetCode/tree/master/0812-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/jatinrane14/LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
