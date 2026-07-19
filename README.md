@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jatinrane14/LeetCode/tree/master/0058-length-of-last-word) |
 | [0812-rotate-string](https://github.com/jatinrane14/LeetCode/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jatinrane14/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinrane14/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jatinrane14/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinrane14/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/jatinrane14/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jatinrane14/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/jatinrane14/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/jatinrane14/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinrane14/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinrane14/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jatinrane14/LeetCode/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinrane14/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/jatinrane14/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jatinrane14/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinrane14/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
