@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jatinrane14/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1408-string-matching-in-an-array](https://github.com/jatinrane14/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jatinrane14/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2129-capitalize-the-title](https://github.com/jatinrane14/LeetCode/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinrane14/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/jatinrane14/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jatinrane14/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
