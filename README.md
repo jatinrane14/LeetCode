@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jatinrane14/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/jatinrane14/LeetCode/tree/master/0792-binary-search) |
 | [0941-valid-mountain-array](https://github.com/jatinrane14/LeetCode/tree/master/0941-valid-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/jatinrane14/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jatinrane14/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jatinrane14/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatinrane14/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jatinrane14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/jatinrane14/LeetCode/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/jatinrane14/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/jatinrane14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinrane14/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinrane14/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jatinrane14/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jatinrane14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jatinrane14/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/jatinrane14/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Counting Sort
 |  |
 | ------- |
