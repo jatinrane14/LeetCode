@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jatinrane14/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/jatinrane14/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jatinrane14/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/jatinrane14/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jatinrane14/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jatinrane14/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/jatinrane14/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jatinrane14/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/jatinrane14/LeetCode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/jatinrane14/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1920-build-array-from-permutation](https://github.com/jatinrane14/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/jatinrane14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinrane14/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinrane14/LeetCode/tree/master/2390-removing-stars-from-a-string) |
