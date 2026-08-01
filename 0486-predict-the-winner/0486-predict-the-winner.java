@@ -11,7 +11,7 @@ class Solution {
         // Choose nums[n-1];
         int take_j = nums[j] + Math.min(solve(i,j-2,nums),solve(i+1,j-1,nums)) ;
 
-        return Math.max(take_i,take_j);
+        return  Math.max(take_i,take_j);
     }
     public boolean predictTheWinner(int[] nums) {
         int n = nums.length;
