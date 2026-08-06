@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/jatinrane14/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jatinrane14/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinrane14/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jatinrane14/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/jatinrane14/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jatinrane14/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/jatinrane14/LeetCode/tree/master/1291-sequential-digits) |
 | [2998-count-symmetric-integers](https://github.com/jatinrane14/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jatinrane14/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/jatinrane14/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
