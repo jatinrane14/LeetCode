@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/jatinrane14/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jatinrane14/LeetCode/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jatinrane14/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jatinrane14/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jatinrane14/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/jatinrane14/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jatinrane14/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatinrane14/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/jatinrane14/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2739-total-distance-traveled](https://github.com/jatinrane14/LeetCode/tree/master/2739-total-distance-traveled) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jatinrane14/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/jatinrane14/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jatinrane14/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
