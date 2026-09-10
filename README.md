@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jatinrane14/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jatinrane14/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/jatinrane14/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3692-majority-frequency-characters](https://github.com/jatinrane14/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3731-find-missing-elements](https://github.com/jatinrane14/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/jatinrane14/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jatinrane14/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jatinrane14/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/jatinrane14/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3692-majority-frequency-characters](https://github.com/jatinrane14/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jatinrane14/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4006-count-valid-prefixes](https://github.com/jatinrane14/LeetCode/tree/master/4006-count-valid-prefixes) |
 ## Stack
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jatinrane14/LeetCode/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/jatinrane14/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/jatinrane14/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3692-majority-frequency-characters](https://github.com/jatinrane14/LeetCode/tree/master/3692-majority-frequency-characters) |
 | [4006-count-valid-prefixes](https://github.com/jatinrane14/LeetCode/tree/master/4006-count-valid-prefixes) |
 ## Monotonic Stack
 |  |
