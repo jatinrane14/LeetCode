@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jatinrane14/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jatinrane14/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jatinrane14/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jatinrane14/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jatinrane14/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jatinrane14/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/jatinrane14/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/jatinrane14/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/jatinrane14/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/jatinrane14/LeetCode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/jatinrane14/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/jatinrane14/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/jatinrane14/LeetCode/tree/master/0812-rotate-string) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jatinrane14/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jatinrane14/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/jatinrane14/LeetCode/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/jatinrane14/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jatinrane14/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jatinrane14/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jatinrane14/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatinrane14/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jatinrane14/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jatinrane14/LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jatinrane14/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/jatinrane14/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jatinrane14/LeetCode/tree/master/1331-rank-transform-of-an-array) |
