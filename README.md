@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jatinrane14/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jatinrane14/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinrane14/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/jatinrane14/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/jatinrane14/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jatinrane14/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jatinrane14/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinrane14/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/jatinrane14/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/jatinrane14/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/jatinrane14/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/jatinrane14/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jatinrane14/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jatinrane14/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinrane14/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/jatinrane14/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/jatinrane14/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/jatinrane14/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/jatinrane14/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jatinrane14/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jatinrane14/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jatinrane14/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/jatinrane14/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/jatinrane14/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Brainteaser
 |  |
